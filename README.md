@@ -4,7 +4,7 @@
 
 <img src="docs/ui/top.png" alt="Armiger, A Herald's Game: free on the Miyoo Mini Plus, by ZJSS. The gold pixel-art title over a coast at dusk, a castle on the headland and the moon over the sea" width="100%">
 
-https://github.com/user-attachments/assets/e8588702-e265-495e-ba32-d76ad509fd49
+https://github.com/user-attachments/assets/30e3351e-9230-40c3-af3e-d120ba68e186
 
 An open-world role-playing game for the Miyoo Mini Plus on Onion OS, grown from a coat of arms you
 design. The same arms always tell the same story and make the same world, and it is free to play
