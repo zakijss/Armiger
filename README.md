@@ -2,6 +2,8 @@
 
 An open-world role-playing game for the Miyoo Mini Plus (Onion OS), grown from a coat of arms you design.
 
+https://github.com/user-attachments/assets/daa24e3a-92f7-4375-988c-3f7322cb2596
+
 You draw your arms in the forge: shield shape, field, division, ordinary, a charge from about 6,400 redrawn as pixel art, and their tinctures. The arms seal into a seed, and the same arms always tell the same story and make the same world. Each land is a historical people chosen by its biome, from Norse and Welsh to Byzantine and Andalusi, with its own names, towns, buildings and music. Two more realms lie over the sea.
 
 Armiger is free to play on the Miyoo Mini family. This repository holds the releases only.
